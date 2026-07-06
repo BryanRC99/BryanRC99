@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Bryan Pineda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Bryan Pineda </b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJidm42Yzd6bWIwMWE4cDI2YjMyY2NxeTUxcTdpMm8wdGd5b2M2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35"></h1>
 
 <img align="right" width=300px alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lyeXI5NTAzNHc4eW1mN3R0OGd6bG5tMWQxMTd5M29vcjczMDJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" />
 
