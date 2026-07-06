@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThsNHQ1cnU1a2k5ZmxmeTV4azRvNml1dTZ2b2pydjRpMmFxYWFtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNtcjVqOXA1bGEzZzh0YTJzZmRvbzd6MjVma2Z1YThmcTNycHk4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ouwDIi3LrCiKQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Full Stack Developer and Software Technology graduate based in Quito, Ecuador. I have practical experience in technical support, IT infrastructure, and network monitoring, which allows me to build applications with a strong focus on security, performance, and solid architectural principles. I love learning new technologies, automating workflows, and building impactful digital solutions.
 
